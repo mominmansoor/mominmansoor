@@ -31,7 +31,7 @@ currently: making things that are fun to click on
 
 | project | what it is | try it |
 | :-- | :-- | :-- |
-| [travle-game](https://github.com/mominmansoor/travle-game) | travle, rebuilt with a cleaner UI, cooler levels and more replayability | [play](https://travle-game.vercel.app) |
+| [travle-game](https://github.com/mominmansoor/Travle-game-) | travle, rebuilt with a cleaner UI, cooler levels and more replayability | [play](https://travle-game.vercel.app) |
 | [chronicle-museum](https://github.com/mominmansoor/chronicle-museum) | a virtual museum on the web | [visit](https://chronicle-museum.vercel.app) |
 | [Space-Simulator](https://github.com/mominmansoor/Space-Simulator) | a solar system simulation with a few quirks of my own | [code](https://github.com/mominmansoor/Space-Simulator) |
 
