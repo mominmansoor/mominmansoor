@@ -13,7 +13,7 @@
 ```txt
 name     : momin mansoor
 based in : riyadh
-focus    : web apps, games, python, ai, arduino, and a lot of esp32s and python
+focus    : web apps, games, python, ai, arduino, and a lot of esp32s and more python
 currently: making things that are fun to click on
 ```
 
